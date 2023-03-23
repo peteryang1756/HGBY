@@ -4,30 +4,30 @@ export function IndexPage() {
   return (
           <main>
       <>
-  <div className="header">
-    <div className="container">
-      <div className="hero-content">
-        <div className="hero-block">
-          <div className="content-block-hero">
-            <h1 className="heading-2">
-              <strong className="bold-text-9">我們的</strong>
+  <div className="{styles.header}">
+    <div className="{styles.container}">
+      <div className="{styles.hero-content}">
+        <div className="{styles.hero-block}">
+          <div className="{styles.content-block-hero}">
+            <h1 className="{styles.heading-2}">
+              <strong className="{styles.bold-text-9}">我們的</strong>
               <span>
-                <strong className="bold-text">使命</strong>
+                <strong className="{styles.bold-text}">使命</strong>
               </span>
-              <strong className="bold-text-9">是將</strong>
+              <strong className="{styles.bold-text-9}">是將</strong>
               <span>
-                <strong className="bold-text-3">雙</strong>
+                <strong className="{styles.bold-text-3}">雙</strong>
               </span>
-              <strong className="bold-text-3">龍</strong>
+              <strong className="{styles.bold-text-3}">龍</strong>
               <span>
-                <strong className="bold-text-3">體</strong>
-                <strong className="bold-text-3">育</strong>
+                <strong className="{styles.bold-text-3}">體</strong>
+                <strong className="{styles.bold-text-3}">育</strong>
               </span>
-              <strong className="bold-text-10">組成</strong>
+              <strong className="{styles.bold-text-10}">組成</strong>
               <span>
-                <strong className="bold-text-6">最棒</strong>
+                <strong className="{styles.bold-text-6}">最棒</strong>
              </span>
-              <strong className="bold-text-10">體育組織</strong>
+              <strong className="{styles.bold-text-10}">體育組織</strong>
               <span>
               </span>
               <span className="cursor">
