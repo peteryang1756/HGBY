@@ -1,11 +1,11 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": {
+    "title": "萬中選一的 Discord 中文機器人",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
+    }
   "contact": {
     "title": "Contact ↗",
     "type": "page",
