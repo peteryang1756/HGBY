@@ -1,4 +1,4 @@
-import { Navbar } from "flowbite-react";
+import { section } from "flowbite-react";
 import { Alert } from "flowbite-react";
 
 export function IndexPage() {
