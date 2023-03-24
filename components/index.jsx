@@ -1,4 +1,4 @@
-import styles from "./hero.module.css";
+import { Navbar } from "flowbite-react";
 import { Alert } from "flowbite-react";
 
 export function IndexPage() {
