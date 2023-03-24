@@ -1,6 +1,6 @@
 module.exports = {
   content: [
-    "./components/**/*.{ts,tsx}",
+    "./components/*.{ts,tsx}",
     "./public/**/*.html",
   ],
   plugins: [
